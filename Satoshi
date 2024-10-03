@@ -14,7 +14,7 @@ contract AnthonyDewayneHunt {
     }
 
     string public name = "Anthony Dewayne Hunt";
-    string public inspiration = "Inspired by his grandmother, Gleanna Jewel Hunt, Anthony explored cosmic themes and hidden messages.";
+    string public inspiration = "Inspired by his grandmother, Glenna Jewel Hunt, Anthony explored cosmic themes and hidden messages.";
     string public realWorldImpact = "Anthony's work includes real-world treasure hunts and connecting ancient trees to cryptographic secrets.";
     string public communityEngagement = "Anthony's family legacy and community engagement play a crucial role in shaping his cryptographic journey.";
 
