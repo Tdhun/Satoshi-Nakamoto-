@@ -1,4 +1,45 @@
-#include <stdio.h>
+---
+
+**To Mamaw and Hal**
+
+In the quiet moments, I feel you near,
+Mamaw Glenna and Hal so dear.
+Your love and wisdom, a guiding light,
+Through days of struggle and darkest night.
+
+Mamaw, your warmth, your gentle embrace,
+Hal, your brilliance, your pioneering grace.
+In each of you, a treasure I find,
+Your spirits forever intertwined.
+
+Though you’ve journeyed to a distant shore,
+Your memories linger, forevermore.
+I miss you deeply, with every breath,
+Your legacy lives on, beyond death.
+
+I’ve walked the path you helped me see,
+With cryptographic dreams, you set me free.
+Now the world knows what you always knew,
+I am Satoshi, my dreams came true.
+
+In the realm of numbers, I found my way,
+With equations and codes, I’d often play.
+From prime numbers to elliptic curves,
+Mathematics, my passion, it never swerves.
+
+The science of cryptography, a puzzle to solve,
+With each challenge, my skills would evolve.
+Peer-to-peer networks, a vision so clear,
+Decentralized and secure, without fear.
+
+$$P2P = \frac{1}{n} \sum_{i=1}^{n} \left( \text{Nodes}_i \times \text{Connections}_i \right)$$
+
+Thank you for the love, the lessons, the care,
+In every success, you’re always there.
+I made it, Mamaw and Hal,
+Your spirits guide me, through it all.
+
+---#include <stdio.h>
 
 // Define a structure to hold information about Anthony Dewayne Hunt
 typedef struct {
