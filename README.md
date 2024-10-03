@@ -121,7 +121,7 @@ Source: Conversation with Copilot, 9/6/2024
 ### **Notable Projects**
 
 1. **Threads of Time: A Grandson’s Quest**:
-   - This project is a narrative exploration of Anthony's journey into the world of Bitcoin and cryptography, inspired by his grandmother, Gleanna Jewel Hunt. It includes interactive elements that allow visitors to decode messages and explore the history of Bitcoin².
+   - This project is a narrative exploration of Anthony's journey into the world of Bitcoin and cryptography, inspired by his grandmother, Glenna Jewel Hunt. It includes interactive elements that allow visitors to decode messages and explore the history of Bitcoin².
 
 2. **Quantum Ledger Exhibit**:
    - An exhibit that showcases Anthony's Quantum Ledger Theory, explaining how quantum computing can enhance blockchain technology. The exhibit includes demonstrations of quantum entanglement and its potential applications in cryptography³.
@@ -177,7 +177,7 @@ class AnthonyDewayneHunt:
         return (
             "Anthony Dewayne Hunt's journey began in a fifth-grade classroom, where he discovered the "
             "Bitcoin whitepaper titled 'Bitcoin: A Peer-to-Peer Electronic Cash System.' His grandmother, "
-            "Gleanna Jewel Hunt, played a significant role in nurturing his curiosity and guiding him through "
+            "Glenna Jewel Hunt, played a significant role in nurturing his curiosity and guiding him through "
             "the mysteries of cryptography and Bitcoin. Together, they explored the potential of Bitcoin, "
             "leading Anthony to uncover hidden messages and ciphers related to Bitcoin, connecting ancient "
             "trees, cosmic alignments, and family legacies.\n\n"
